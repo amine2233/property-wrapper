@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-extension",
+        "repositoryURL": "https://github.com/amine2233/swift-extension",
+        "state": {
+          "branch": "main",
+          "revision": "50ac44b9376bb2805769534a8ea0dafdbe7fd3e9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
